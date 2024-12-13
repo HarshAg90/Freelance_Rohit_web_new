@@ -8,13 +8,13 @@ export default function Home() {
         Black Friday sale now on! Save 25% sitewide!
       </div>
       <div className="p-4 px-5 flex justify-start items-center">
-        <h1 className="font-bold text-pink-500 text-4xl">Brand Name</h1>
+        <h1 className="font-bold text-pink-500 text-4xl">Singh Tech</h1>
       </div>
       <div className="w-full ">
-        <img src="banner.png" alt="" className="w-full h-[80vh] object-cover" />
-        <div className=" absolute left-[10%] top-[50%] -translate-y-[50%]">
-          <h1 className="text-6xl font-bold">Singh</h1>
-          <h2 className="text-3xl font-bold">teach printing</h2>
+        <img src="bgHome2.png" alt="" className="w-full h-[80vh] object-cover" />
+        <div className="text-white absolute left-[7%] top-[50%] -translate-y-[50%]">
+          <h1 className="text-7xl font-bold">Singh</h1>
+          <h2 className="text-4xl font-bold">teach printing</h2>
         </div>
       </div>
       <div className="bg-white">
@@ -163,9 +163,7 @@ export default function Home() {
             Make 2025 Memorable with Custom Calenders
           </h1>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sed
-            inventore mollitia, quas accusamus rerum laudantium voluptates iste
-            obcaecati provident recusandae.
+          Discover unparalleled offset printing services tailored to meet your business needs. With state-of-the-art machinery and a commitment to quality, we deliver high-precision printing solutions for brochures, flyers, posters, packaging, and more.
           </p>
           <button className="px-6 py-2 rounded-full border-2 border-black text-xl hover:bg-black hover:text-white w-fit">
             Shop Now
@@ -198,8 +196,8 @@ export default function Home() {
           <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-75"></div>
           <div className="absolute bottom-4 left-4">
             {/* <h3 className="text-white font-bold text-xl">{product.title}</h3> */}
-            <h3 className="text-white font-bold text-xl">product title</h3>
-            <button className="mt-2 px-4 py-2 bg-white text-black rounded-full shadow-lg font-medium hover:bg-gray-100">
+            <h3 className="text-white font-bold text-xl">Greeting Cards</h3>
+            <button className="mt-2 px-4 py-1 bg-white text-black rounded-full shadow-lg font-medium hover:bg-gray-100">
               Shop Now
             </button>
           </div>
@@ -223,8 +221,8 @@ export default function Home() {
           <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-75"></div>
           <div className="absolute bottom-4 left-4">
             {/* <h3 className="text-white font-bold text-xl">{product.title}</h3> */}
-            <h3 className="text-white font-bold text-xl">product title</h3>
-            <button className="mt-2 px-4 py-2 bg-white text-black rounded-full shadow-lg font-medium hover:bg-gray-100">
+            <h3 className="text-white font-bold text-xl">Sticker Rolls</h3>
+            <button className="mt-2 px-4 py-1 bg-white text-black rounded-full shadow-lg font-medium hover:bg-gray-100">
               Shop Now
             </button>
           </div>
@@ -248,8 +246,8 @@ export default function Home() {
           <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-75"></div>
           <div className="absolute bottom-4 left-4">
             {/* <h3 className="text-white font-bold text-xl">{product.title}</h3> */}
-            <h3 className="text-white font-bold text-xl">product title</h3>
-            <button className="mt-2 px-4 py-2 bg-white text-black rounded-full shadow-lg font-medium hover:bg-gray-100">
+            <h3 className="text-white font-bold text-xl">Wedding Invites</h3>
+            <button className="mt-2 px-4 py-1 bg-white text-black rounded-full shadow-lg font-medium hover:bg-gray-100">
               Shop Now
             </button>
           </div>
@@ -271,8 +269,8 @@ export default function Home() {
           <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-75"></div>
           <div className="absolute bottom-4 left-4">
             {/* <h3 className="text-white font-bold text-xl">{product.title}</h3> */}
-            <h3 className="text-white font-bold text-xl">product title</h3>
-            <button className="mt-2 px-4 py-2 bg-white text-black rounded-full shadow-lg font-medium hover:bg-gray-100">
+            <h3 className="text-white font-bold text-xl">Mini Boxes</h3>
+            <button className="mt-2 px-4 py-1 bg-white text-black rounded-full shadow-lg font-medium hover:bg-gray-100">
               Shop Now
             </button>
           </div>
@@ -324,7 +322,7 @@ export default function Home() {
             Feel the Quality — Order Your Sample Pack
           </h1>
           <p className="text-gray-600 text-lg">
-            Experience the Jukebox difference. Our samples showcase the
+            Experience the SinghTech difference. Our samples showcase the
             exceptional quality that will elevate your project.
           </p>
           <button className="px-5 py-2 rounded-full border-2 border-black text-xl w-auto hover:text-white hover:bg-black">
@@ -341,16 +339,11 @@ export default function Home() {
         />
         <div className="rounded-xl absolute right-[10%] flex flex-col gap-4 top-[50%] -translate-y-[50%] w-[40%] bg-white p-20">
           <h1 className="text-4xl font-semibold">
-            Feel the Quality — Order Your Sample Pack
+          Next Day Delivery for your your rush projects
           </h1>
           <p className="text-gray-600 text-lg">
-            Experience the Jukebox difference. Our samples showcase the
-            exceptional quality that will elevate your project.
+          Need your printed items delivered quickly? Look no further! Our most popular products, including stickers, business cards, and flyers, are available for next-day delivery when you order by 1pm EST.
           </p>
-          <button className="px-5 py-2 rounded-full border-2 border-black text-xl w-auto hover:text-white hover:bg-black">
-            {" "}
-            Discover more
-          </button>
         </div>
       </div>
       <div className="w-full relative">
@@ -361,11 +354,12 @@ export default function Home() {
         />
         <div className="rounded-xl absolute left-[10%] flex flex-col gap-4 top-[50%] -translate-y-[50%] w-[40%] bg-white p-20">
           <h1 className="text-4xl font-semibold">
-            Feel the Quality — Order Your Sample Pack
+          Spread Your Stories with Stickers
           </h1>
           <p className="text-gray-600 text-lg">
-            Experience the Jukebox difference. Our samples showcase the
-            exceptional quality that will elevate your project.
+          Our sticker sheets give your brand the spotlight it deserves.
+
+
           </p>
           <button className="px-5 py-2 rounded-full border-2 border-black text-xl w-auto hover:text-white hover:bg-black">
             {" "}
@@ -636,7 +630,7 @@ export default function Home() {
       <div className="flex flex-col w-full justify-center items-center bg-gray-800">
         <div className="flex justify-evenly w-full py-20 my-10">
           {" "}
-          <span className="text-3xl font-semibold text-pink-600">JukeBox</span>
+          <span className="text-3xl font-semibold text-pink-600">SinghTech</span>
           <div className="flex flex-col ">
             <span className="text-gray-50 font-bold pb-3">Popular Project</span>
             <span className="text-gray-50 hover:underline cursor-pointer">
@@ -721,7 +715,7 @@ export default function Home() {
         </div>
         <div className="flex gap-5 p-5 w-full">
           <span className="text-gray-200 hover:underline cursor-pointer">
-            &copy; 2023 JukeBox
+            &copy; 2023 SinghTech
           </span>
           <span className="text-gray-200 hover:underline cursor-pointer">
             Privacy Policy - Terms and Conditions

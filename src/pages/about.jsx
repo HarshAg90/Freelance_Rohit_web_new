@@ -5,7 +5,7 @@ export default function About() {
         Black Friday sale now on! Save 25% sitewide!
       </div>
       <div className="p-4 px-5 flex justify-start items-center border-b border-gray-800 mb-10">
-        <h1 className="font-bold text-pink-500 text-4xl">Brand Name</h1>
+        <h1 className="font-bold text-pink-500 text-4xl">Singh Tech</h1>
       </div>
         <div className="w-full flex justify-evenly items-center px-20 h-screen gap-20">
             <div className="flex flex-1">
@@ -13,35 +13,32 @@ export default function About() {
                 <img src="./prj_img/im4.jpg" className="w-[25vw] object-cover h-auto rounded-xl -translate-x-[25%] translate-y-[25%] shadow-md" alt="" />
             </div>
             <div className="flex-1">
-                <h2 className="text-3xl font-semibold mb-10">Our People</h2>
+                <h2 className="text-3xl font-semibold mb-10">Company Overview</h2>
                 <p>
-                    Providing each other with support and opportunities to collaborate is a vital factor in the running of Jukebox. We rely, lean on and challenge each other to ensure we meet our own and our customers’ ever-changing expectations.
-                    <br />
-                    <br />
-                    We work hard to align ourselves with high-performing colleagues that add to our inclusive, empowering company culture. We aim to provide our people a place to learn, grow, and ultimately thrive.
+                Singh Tech proudly brings over a decade of expertise to the offset printing industry. Located in the heart of Delhi, we specialize in delivering superior quality printing solutions that cater to businesses across a variety of industries. From vibrant marketing materials to intricate packaging designs, our services are designed to make your brand stand out
                 </p>
             </div>
         </div>
         <div className="flex flex-col gap-5 items-center py-40 bg-gray-100">
-            <h2 className="text-3xl font-semibold mb-10">The Jukebox Difference</h2>
+            <h2 className="text-3xl font-semibold mb-10">Our Core Values</h2>
             <div className="flex justify-evenly items-center w-full">
-                <p className="w-[30%]">At Jukebox, our relentless pursuit of excellence sets us apart. We merge traditional craftsmanship with modern technology, ensuring our products exceed industry standards and impress every client.
+                <p className="w-[30%]">Quality First: Our commitment to precision and attention to detail ensures every project exceeds expectations. We use stringent quality control processes to guarantee sharp, vibrant, and flawless prints that reflect the professionalism of your brand.
 <br />
 <br />
-Our commitment to sustainability shines through in our eco-conscious product lines. We use materials and processes that reduce environmental impact, making our creations not just beautiful but responsible.</p>
-                <p className="w-[30%]">At Jukebox, our relentless pursuit of excellence sets us apart. We merge traditional craftsmanship with modern technology, ensuring our products exceed industry standards and impress every client.
+Customer Focus: Building strong, enduring relationships with our clients is at the heart of what we do. From the initial consultation to project delivery, we prioritize understanding your unique needs and providing solutions that exceed your expectations.</p>
+                <p className="w-[30%]">Innovation: Equipped with cutting-edge technology, our advanced machinery and processes enable us to offer industry-leading results. We continuously embrace new techniques to stay ahead in the printing world and provide unparalleled services.
 <br />
 <br />
-Our commitment to sustainability shines through in our eco-conscious product lines. We use materials and processes that reduce environmental impact, making our creations not just beautiful but responsible.</p>
+Sustainability: We are deeply committed to eco-friendly practices. By using sustainable materials and energy-efficient processes, we aim to minimize our environmental impact while delivering exceptional printing solutions.</p>
             </div>
             <button className="mt-10 px-10 py-3 bg-black hover:bg-gray-600 text-white">Shop Now</button>
 
         </div>
         <div className="w-full flex justify-evenly items-center px-20 h-screen gap-20">
             <div className="flex-1">
-                <h2 className="text-3xl font-semibold mb-10">Crafting Diversity, Embracing Unlimited Possibilities</h2>
+                <h2 className="text-3xl font-semibold mb-10">Experience and Expertise</h2>
                 <p>
-                Providing each other with support and opportunities to collaborate is a vital factor in the running of Jukebox. We rely, lean on and challenge each other to ensure we meet our own and our customers’ ever-changing expectations.
+                With a dedicated team and cutting-edge technology, Singh Tech is the trusted choice for printing projects of all sizes. Our vast experience enables us to tackle even the most challenging assignments with ease and efficiency.
                     <br />
                     <br />
                     We work hard to align ourselves with high-performing colleagues that add to our inclusive, empowering company culture. We aim to provide our people a place to learn, grow, and ultimately thrive.
@@ -53,7 +50,7 @@ Our commitment to sustainability shines through in our eco-conscious product lin
             </div>
         </div>
         <div className="flex justify-center items-center m-10 rounded-xl p-20  text-md bg-gradient-to-r from-red-300 to-blue-300 font-semibold">
-        <p className="text-xl font-semibold w-[80%]">At Jukebox, our employees are true artisans, infusing skill and passion into every print order. Their meticulous attention ensures each piece exceeds expectations, turning every print into a masterpiece that tells a story and creates lasting impressions.</p>
+        <p className="text-xl font-semibold w-[80%]">At SinghTech, we understand the importance of protecting the environment. That’s why we incorporate eco-friendly practices in our operations, ensuring that our printing solutions are as sustainable as they are effective.</p>
       </div>
       <div className="flex p-20 items-center justify-center gap-10">
         <div className="flex flex-col gap-10 -translate-y-[5%]">
@@ -281,7 +278,7 @@ Our commitment to sustainability shines through in our eco-conscious product lin
         <div className="flex flex-col w-full justify-center items-center bg-gray-800">
         <div className="flex justify-evenly w-full py-20 my-10">
           {" "}
-          <span className="text-3xl font-semibold text-pink-600">JukeBox</span>
+          <span className="text-3xl font-semibold text-pink-600">SinghTech</span>
           <div className="flex flex-col ">
             <span className="text-gray-50 font-bold pb-3">Popular Project</span>
             <span className="text-gray-50 hover:underline cursor-pointer">
@@ -366,7 +363,7 @@ Our commitment to sustainability shines through in our eco-conscious product lin
         </div>
         <div className="flex gap-5 p-5 w-full">
           <span className="text-gray-200 hover:underline cursor-pointer">
-            &copy; 2023 JukeBox
+            &copy; 2023 SinghTech
           </span>
           <span className="text-gray-200 hover:underline cursor-pointer">
             Privacy Policy - Terms and Conditions
